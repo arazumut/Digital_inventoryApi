@@ -8,7 +8,6 @@ A digital inventory management system used to track devices and assets in physic
 - Django REST Framework 3.14.0
 - drf-spectacular (API Documentation)
 - SQLite (sufficient for development)
-- 
 - django-filter
 
 ## 🚀 Getting Started
