@@ -15,6 +15,7 @@ A digital inventory management system used to track devices and assets in physic
 ### Prerequisites
 
 
+
 - Python 3.x
 - pip
 
