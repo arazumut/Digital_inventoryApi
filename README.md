@@ -51,6 +51,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+
 ## 🔑 Models
 
 ### 1. User
