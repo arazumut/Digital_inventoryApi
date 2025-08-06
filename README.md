@@ -12,7 +12,6 @@ A digital inventory management system used to track devices and assets in physic
 
 ## 🚀 Getting Started
 
-
 ### Prerequisites
 
 - Python 3.x
